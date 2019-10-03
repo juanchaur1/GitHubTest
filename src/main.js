@@ -1,9 +1,8 @@
 console.log("Hello world");
 
-debugger;
-sss
+
 const a = '111';
 
-
+cons test='asss';
 
 console.log(`${a}`);
